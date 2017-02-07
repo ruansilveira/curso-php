@@ -5,12 +5,10 @@ $mod = $i;
 
 for ($i = 1; $i <= 10; $i++){
   if($i % 2 == 1){
-    echo "*\n";
+    echo "$i - *\n";
   } else {
-    echo "**\n";
+    echo "$i - **\n";
   }
 }
-
-
 
  ?>

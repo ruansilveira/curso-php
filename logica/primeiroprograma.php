@@ -8,6 +8,7 @@ while($contador < 6){ // Condição
 
 }
 
+//    DECLARAÇÃO;     CONDIÇÃO;      INCREMENTO;
 for ($contador = 0; $contador < 5; $contador++) {
   echo "Deu onda 5" . PHP_EOL;
 }
