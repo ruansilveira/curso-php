@@ -17,6 +17,6 @@ echo "Saque efetuado com sucesso! \n ";}
 else {
   echo "Saldo insuficiente\n";
 }
-$conta->imprimeExtrato();
+  $conta->imprimeExtrato();
 
 ?>
