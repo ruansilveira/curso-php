@@ -1,11 +1,12 @@
 <?php
+require_once('Cliente.php');
 
 class Conta {
 
   public $numero;
   public $saldo;
   public $limite;
-  public $dono;
+  public
 
 }
 
