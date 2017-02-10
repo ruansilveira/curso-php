@@ -19,7 +19,10 @@ public function __construct(){
     //Envia email;
     //Zera o contador;
   }
- $numConta = new Conta
+ $numConta = new numConta{
+
+
+ }
 }
 
  ?>
