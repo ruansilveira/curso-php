@@ -4,9 +4,10 @@ class Funcionario{
 
 public $nome;
 public $salario;
-public $senha;
-public $ramal;
 
+public function calculaBonus();{
+  return $salario * 0.40;
+}
 }
 
  ?>
